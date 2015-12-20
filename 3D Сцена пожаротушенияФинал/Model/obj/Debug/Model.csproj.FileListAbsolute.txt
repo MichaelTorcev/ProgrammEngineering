@@ -54,3 +54,11 @@ D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\De
 D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csproj.GenerateResource.Cache
 D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.exe
 D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.pdb
+D:\123\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.exe
+D:\123\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.pdb
+D:\123\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\123\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form1.resources
+D:\123\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Properties.Resources.resources
+D:\123\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+D:\123\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.exe
+D:\123\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.pdb

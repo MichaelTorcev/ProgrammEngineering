@@ -1153,29 +1153,7 @@ namespace Model
         }
         static int StageCount = 0, PodezdCount = 0;
         int FlagPodezd = 0, FlagStage=0;
-        private void конструкторЗаданийToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            for (int i = 0; i < StageCount; i++) Stage[i] = null;
-            for (int i = 0; i < PodezdCount; i++) Podezd[i] = null;
-            Form f2 = new Form2();
-            f2.ShowDialog();
-
-            for (int i = 0; i < PodezdCount; i++)
-            {
-                Podezd[i] = new anModelLoader();
-                Podezd[i].LoadModel("Podezd.ASE");
-            }
-                for (int j = 0; j < PodezdCount; j++)
-            {
-                Stage[j] = new anModelLoader();
-                Stage[j].LoadModel("Stage.ASE");
-            }
-            FlagPodezd = 1;
-            FlagStage = 1;
-            RenderTimer.Start();
-            
-
-        } 
+        
         private void trackBar6_Scroll(object sender, EventArgs e)
         {
            
