@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Model">
+</Property><Property Name="Файл решения" Value="C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model.sln">
+</Property><Property Name="Date" Value="2 октября 2015 г.">
+</Property><Property Name="Time" Value="20:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Model.sln" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model.sln">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\anModelLoader.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\anModelLoader.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Form1.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Form1.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Program.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Form1.resx" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Backup\Model\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Model.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="Model.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>

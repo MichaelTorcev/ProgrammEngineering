@@ -1,0 +1,56 @@
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.Form1.resources
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\bin\Debug\Model.exe
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\bin\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.exe
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\source_urok_13_esate.ru\Model\obj\Debug\Model.Form2.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.exe
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\bin\Debug\Model.exe
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\bin\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.Form1.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.Form2.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушения\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.exe
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.exe
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form1.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form2.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Михаил)\Desktop\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.exe
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.pdb
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form1.resources
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form2.resources
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.exe
+C:\Users\Михаил)\Desktop\Финал\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.pdb
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.exe
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.pdb
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.exe
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.pdb
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form1.resources
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form2.resources
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Properties.Resources.resources
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+D:\Пожарка\Финал\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form3.resources
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.exe
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.pdb
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form1.resources
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form2.resources
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Form3.resources
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.Properties.Resources.resources
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.exe
+D:\ProgrEngeneeR\3D Сцена пожаротушенияФинал\Model\bin\Debug\Model.pdb
